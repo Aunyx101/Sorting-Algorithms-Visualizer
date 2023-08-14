@@ -26,19 +26,4 @@ and finally lime-green representing iterative head/point. The application can al
 well as determine the total time taken in order to sort an array (that is read from a .txt file). [Note: ‘Speed Of
 Sort’ will affect the total time taken in sorting via a chosen algorithm.]
 
-Programming Design:
-The technologies we used 
-- HTML, CSS, JavaScript, Bootstrap.
-  
-Experimental Setup: 
-We used ‘codepen.io’ for our experimental setup with basic HTML, CSS and JS implementation for Bubble 
-Sort. 
-
-Conclusion: 
-Our Web Application is accurate and efficient. It gives the required output via the required manner
-that is visualization of sorting algorithms.
-Thank You!
-References: 
-https://www.geeksforgeeks.org/ (for various sorting algorithms in JS)
-https://www.w3schools.com/ (for front-end implementation of the website)
-https://github.com/search?q=sorting+visual (for implementation reference)
+*Read DAA Project Report For More Details
