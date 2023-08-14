@@ -4,6 +4,7 @@ Department of Computer Science
 Fall 2022
  
 Project: [Sorting Algorithms Visualized]
+
 Introduction: 
 In order for better understanding of a particular sorting algorithm, we implemented this web-based 
 application where such sorting algorithms are visualized. It showcases the inner workings 
