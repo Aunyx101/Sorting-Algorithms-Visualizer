@@ -26,4 +26,4 @@ and finally lime-green representing iterative head/point. The application can al
 well as determine the total time taken in order to sort an array (that is read from a .txt file). [Note: ‘Speed Of
 Sort’ will affect the total time taken in sorting via a chosen algorithm.]
 
-*Read DAA Project Report For More Details
+*Read 'DAA Project Report.pdf' For More Details
